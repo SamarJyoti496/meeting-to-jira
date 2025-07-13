@@ -16,6 +16,36 @@ Simply upload a meeting recording (MP3, WAV, MP4, etc.), and the system will:
 
 This frees up developers and project managers from manual note-taking, allowing them to focus on what truly matters: building great software.
 
+📸 Screenshots
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/affaad7b-3b46-4cde-abbb-6469b9baf24a" alt="File Upload Interface" width="400" height="250"/>
+        <br><b>File Upload Interface</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3b6a9be8-be30-4bf4-a106-59b9928c29a0" alt="Processing Progress" width="400" height="250"/>
+        <br><b>Processing Progress</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/09b249a9-c18f-4075-8123-03c3e5a950e7" alt="Ticket Creation" width="400" height="250"/>
+        <br><b>Ticket Creation</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3c0d55ee-bf4b-4e67-8f7f-4ac2630207aa" alt="Jira Integration" width="400" height="250"/>
+        <br><b>Jira Integration</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
 ## 🚀 Features
 
 - **Seamless File Upload**: A modern, drag-and-drop interface for uploading meeting recordings
