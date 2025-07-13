@@ -16,10 +16,15 @@ Simply upload a meeting recording (MP3, WAV, MP4, etc.), and the system will:
 
 This frees up developers and project managers from manual note-taking, allowing them to focus on what truly matters: building great software.
 
-<img width="1604" height="935" alt="image" src="https://github.com/user-attachments/assets/affaad7b-3b46-4cde-abbb-6469b9baf24a" />
-<img width="1441" height="1079" alt="image" src="https://github.com/user-attachments/assets/3b6a9be8-be30-4bf4-a106-59b9928c29a0" />
-<img width="1127" height="716" alt="image" src="https://github.com/user-attachments/assets/09b249a9-c18f-4075-8123-03c3e5a950e7" />
-<img width="2009" height="794" alt="image" src="https://github.com/user-attachments/assets/3c0d55ee-bf4b-4e67-8f7f-4ac2630207aa" />
+📸 Screenshots
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/affaad7b-3b46-4cde-abbb-6469b9baf24a" alt="File Upload Interface" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3b6a9be8-be30-4bf4-a106-59b9928c29a0" alt="Processing Progress" width="400"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09b249a9-c18f-4075-8123-03c3e5a950e7" alt="Ticket Creation" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3c0d55ee-bf4b-4e67-8f7f-4ac2630207aa" alt="Jira Integration" width="400"/>
+</div>
 
 
 
