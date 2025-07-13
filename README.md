@@ -25,7 +25,6 @@ This frees up developers and project managers from manual note-taking, allowing 
 - **Real-Time Progress Tracking**: The frontend polls the backend to show the user the live status of the transcription and ticket creation process
 - **Scalable Backend**: Built with FastAPI for high performance and asynchronous request handling
 - **Modern Frontend**: A responsive and beautiful UI built with Vite, React, and Tailwind CSS
-- **Containerized for Easy Deployment**: Fully containerized with Docker and NGINX for consistent and simple deployment
 - **Database Migrations**: Uses Alembic to manage database schema changes safely
 
 ## 📋 Installation
